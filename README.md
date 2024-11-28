@@ -1,4 +1,4 @@
-# AVAI_Diffusion
+# AVAI-Diffusion
 This model aims to replicate the SR3 model for image super-resolution via iterative refinement: https://arxiv.org/abs/2104.07636  
 Dataset: DIV2K Train/Valid HR and LR (8x bicubic)
 https://data.vision.ee.ethz.ch/cvl/DIV2K/
